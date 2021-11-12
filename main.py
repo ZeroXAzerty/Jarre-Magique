@@ -8,4 +8,3 @@ if niveau == 1:
     niveau1()
 if niveau == 2:
     niveau2()
-    
